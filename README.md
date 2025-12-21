@@ -1,5 +1,9 @@
 # 💫 About Me:
-I’m a highly motivated MCA student at SRM Institute of Science and Technology with 2 years of experience as a software developer. I specialize in building scalable and efficient backend systems using .NET Core, MS SQL Server, and MongoDB, and I have hands-on experience working across the full stack with React.js to create dynamic, user-friendly web applications.<br><br>I also have a strong foundation in Azure, and I’m currently expanding my cloud expertise across AWS and Google Cloud as I explore multi-cloud architecture and cloud-native development. My current focus is on backend engineering, system design, and modern web technologies.<br><br>I’m passionate about continuous learning, solving real-world problems, and collaborating on impactful projects. I’m always open to contributing to exciting ideas, internships, and research-driven initiatives.
+I am a software developer with **two years of professional experience** in building scalable and efficient backend systems, currently pursuing a **Master of Computer Applications (MCA) at SRM Institute of Science and Technology**.
+My primary expertise lies in **backend engineering**, where I design and develop robust APIs and data-driven applications using **.NET Core**, **MS SQL Server**, and **MongoDB**. I also have hands-on experience working across the full stack with **React.js**, enabling me to build responsive, user-focused web applications and collaborate effectively across teams.
+I have a strong foundation in **Microsoft Azure** and am actively expanding my cloud knowledge across **AWS** and **Google Cloud Platform**, with a focus on **cloud-native development**, **scalable architectures**, and **multi-cloud environments**.
+Currently, I am deepening my expertise in **system design**, **backend scalability**, and **modern web technologies**, with an emphasis on writing clean, maintainable, and performance-oriented code.
+I am passionate about continuous learning, problem-solving, and collaboration, and I am open to contributing to **challenging projects, internships, and impactful engineering initiatives**.
 
 
 ## 🌐 Socials:
