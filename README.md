@@ -1,6 +1,6 @@
 # 💫 About Me:
 I am a software developer with **two years of professional experience** in building **scalable, high-performance backend systems**, currently pursuing a **Master of Computer Applications (MCA) at SRM Institute of Science and Technology**.
-My core expertise is in **backend engineering**, where I design and develop **robust RESTful APIs, business logic, and data-driven services** using **.NET Core**, **MS SQL Server**, and **MongoDB**. I focus on writing **clean, maintainable, and efficient code**, with attention to performance, security, and scalability.
+My core expertise is in **backend engineering**, where I design and develop **robust RESTful APIs, business logic, and data-driven services** using **.NET Core**, **MS SQL Server**,. I focus on writing **clean, maintainable, and efficient code**, with attention to performance, security, and scalability.
 I have a strong foundation in **Microsoft Azure**, including cloud fundamentals, application hosting, and backend service integration.
 Currently, I am deepening my knowledge in **system design, backend scalability, and modern backend architectures**, with a strong interest in building **reliable and production-ready systems**.
 I am driven by continuous learning and problem-solving, and I am eager to contribute to **backend-focused projects, internships, and engineering teams** that work on real-world, scalable solutions.
